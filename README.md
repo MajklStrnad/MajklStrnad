@@ -1,4 +1,37 @@
-<h1 align="center">Hi there, I'm Michal 👋</h1>
+<div align="center">
+
+# MAIKL
+
+<sub>cybersecurity student · prague</sub>
+
+</div>
+
+<br>
+
+I study cybersecurity and spend the rest of my time building websites — mostly for small projects and clients, while I put together a proper portfolio. I like understanding how things break as much as building the things that don't.
+
+<br>
+
+**stack**
+
+<p>
+  <img src="https://img.shields.io/badge/-HTML-1a1a1a?style=flat-square&logo=html5&logoColor=E8B4BC" />
+  <img src="https://img.shields.io/badge/-CSS-1a1a1a?style=flat-square&logo=css3&logoColor=E8B4BC" />
+  <img src="https://img.shields.io/badge/-JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=E8B4BC" />
+  <img src="https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python&logoColor=E8B4BC" />
+  <img src="https://img.shields.io/badge/-Linux-1a1a1a?style=flat-square&logo=linux&logoColor=E8B4BC" />
+</p>
+
+<br>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=majklstrnad&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=E8B4BC&icon_color=D8949E&text_color=A89BA0" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majklstrnad&hide_border=true&hide_title=true&layout=compact&bg_color=00000000&title_color=E8B4BC&text_color=A89BA0" height="150" />
+</p>
+
+<br>
+
+<sub>prague, cz — reach me at youremail@example.com</sub><h1 align="center">Hi there, I'm Michal 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Student;Web+Developer;Building+cool+things;Based+in+Prague+%F0%9F%87%A8%F0%9F%87%BF&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
