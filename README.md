@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/maikl-banner.svg" alt="MAIKL wordmark with drifting cherry blossom petals" width="100%" />
+<img src="assets/maikl-banner.gif" alt="MAIKL wordmark with drifting cherry blossom petals" width="100%" />
 </div>   
  <p align="center">
   <sub>INDEPENDENT DIGITAL STUDIO · INTERFACES, SYSTEMS, AND QUIETLY USEFUL THINGS</sub>
