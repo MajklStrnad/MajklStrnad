@@ -13,7 +13,7 @@
     </symbol>
 
     <style><![CDATA[
-      .bg   { fill: #0d0d0d; }
+      .bg   { fill: #000000; }
       .title{ fill: #D99AA0; font-family: 'Trebuchet MS', Helvetica, sans-serif;
               font-size: 46px; letter-spacing: 16px; }
       .petal {
@@ -62,7 +62,7 @@
     </symbol>
 
     <style><![CDATA[
-      .bg   { fill: #0d0d0d; }
+      .bg   { fill: #000000; }
       .title{ fill: #D99AA0; font-family: 'Trebuchet MS', Helvetica, sans-serif;
               font-size: 46px; letter-spacing: 16px; }
       .sub  { fill: #8a6b70; font-family: 'Trebuchet MS', Helvetica, sans-serif;
