@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/petals-banner.svg" width="100%" />
+<img src="./petals-banner.svg" width="100%" />
 
 <sub>Prague, Czech Republic — available for work</sub>
 
