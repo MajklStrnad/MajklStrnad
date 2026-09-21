@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="https://maikl.agency"><img src="./assets/button.svg" alt="maikl.agency" width="240"/></a>
+<a href="https://maikl.agency"><img src="./button.svg" alt="maikl.agency" width="240"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:544144,100:0a0a0a&section=footer&reversal=true" width="100%" alt=""/>
 
