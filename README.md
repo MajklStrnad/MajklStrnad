@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=140&section=header&text=MAIKL&fontColor=D99AA0&fontSize=46&fontAlignY=45&desc=Web%20Developer%20%26%20Cybersecurity%20Student&descAlignY=70&descSize=14&descColor=8A6B70" width="100%" />
+<img src="https://placehold.co/1200x160/0d0d0d/D99AA0/png?text=M+A+I+K+L&font=montserrat" width="100%" />
 
 <sub>Prague, Czech Republic — available for work</sub>
 
@@ -10,7 +10,7 @@
 
 Source for [maikl.agency](https://maikl.agency) — motion-first websites and interactive experiences for startups and brands.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D99AA0&height=2" width="100%" />
+<img src="https://placehold.co/1200x3/D99AA0/D99AA0/png" width="100%" />
 
 **Stack**
 
@@ -18,7 +18,7 @@ Source for [maikl.agency](https://maikl.agency) — motion-first websites and in
 `Backend` — FastAPI · Supabase · PostgreSQL · REST APIs
 `Security` — Pentesting · Recon · CTFs · Security research
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D99AA0&height=2" width="100%" />
+<img src="https://placehold.co/1200x3/D99AA0/D99AA0/png" width="100%" />
 
 **Selected work**
 
